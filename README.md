@@ -19,11 +19,10 @@ Based of a tutorial from AmigosCode [Click here](https://github.com/amigoscode/s
 * [React](https://reactjs.org/docs/getting-started.html) - Front-end user interface library
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [AWS](https://docs.aws.amazon.com/) - Used to store files to the cloud (in S3 buckets)
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 
 ## Authors
 
-* **Christopher Ejiofor** - *Improvements* - [PurpleBooth](https://github.com/cejiofor)
+* **Christopher Ejiofor** - *Improvements* - [cejiofor](https://github.com/cejiofor)
 
 * **AmigosCode** - *Initial work* - [AmigosCode](https://github.com/amigoscode)
